@@ -9,6 +9,7 @@ public class StashProject {
 		System.out.println("hello world4");
 		
 System.out.println("hello world9");
+		System.out.println("hello world 7");
 	}
 
 }
